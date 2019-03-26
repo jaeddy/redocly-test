@@ -1,0 +1,8 @@
+
+apiTitle: mini-drs
+splitSpec: true
+codeSamples: true
+swaggerUI: true
+travis: true
+repo: jaeddy/redocly-test
+oasVersion: 3.0.0
